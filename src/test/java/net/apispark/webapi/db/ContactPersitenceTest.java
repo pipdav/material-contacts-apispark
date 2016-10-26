@@ -1,4 +1,4 @@
-package net.apispark.webapi;
+package net.apispark.webapi.db;
 
 import static org.hamcrest.CoreMatchers.*;
 
