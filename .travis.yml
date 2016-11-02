@@ -3,3 +3,7 @@ language: java
 sudo: required
 
 notification: never
+
+deploy:
+  provider: heroku
+  api_key: 98c9d167-9c4c-4e0d-9caf-b65e06c2ec0b
